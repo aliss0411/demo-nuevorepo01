@@ -1,6 +1,6 @@
 # demo-nuevorepo01
 
-## subtitulo nnivel 2
+## subtitulo nivel 2
 
 ### subtitulo nivel 3
 
