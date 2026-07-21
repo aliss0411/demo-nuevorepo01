@@ -8,8 +8,8 @@ prueba de clases
 
 ampliamos mi descripcion
 
-``` java
+``` 
 
-String prueba;
+ls-ls;
 
 ```
